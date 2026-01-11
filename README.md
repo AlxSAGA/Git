@@ -6,10 +6,10 @@ Repositorio personal para aprender y practicar Git y GitHub.
 - [Documentación de Git](https://git-scm.com/doc)
 - [Pro Git Book](https://git-scm.com/book/es/v2)
 
-| Carpeta                           | Descripcion                                                   |
-| --------------------------------- | ------------------------------------------------------------- |
-| [Git](./01-Intoduccion_Git)       | **Git** es un **sistema de control de versiones distribuido** |
-| [Github](./02-Intoduccion_GitHub) | **GitHub** es una **plataforma en la nube**                   |
+| Carpeta                            | Descripcion                                                   |
+| ---------------------------------- | ------------------------------------------------------------- |
+| [Git](./01-Intoduccion_Git)        | **Git** es un **sistema de control de versiones distribuido** |
+| [Github](./02-Introduccion_GitHub) | **GitHub** es una **plataforma en la nube**                   |
 
 ## Contribuciones
 Este es un repositorio personal de aprendizaje, pero si tienes sugerencias o mejoras para los ejercicios, ¡las sugerencias son bienvenidas!
